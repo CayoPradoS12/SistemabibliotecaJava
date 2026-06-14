@@ -1,4 +1,4 @@
-# Sistema de Biblioteca v2.0
+# Sistema de Biblioteca
 
 ## Como executar
 
